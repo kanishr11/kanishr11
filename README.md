@@ -8,12 +8,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Cloud: AWS (EC2, S3, Amplify)
 Tools: Git, Redux, Power BI
-🌟 Projects
-🛒 E-commerce Website
-A full-stack application for browsing and purchasing products.
-Tech Used: React.js, Node.js, MongoDB, Tailwind CSS
-Live Demo | GitHub Repository
-🔍 Automated Resume Evaluation System
-A Streamlit-based tool for evaluating resumes using Google Generative AI.
-Tech Used: Python, Streamlit, Gemini AI
-GitHub Repository
+
